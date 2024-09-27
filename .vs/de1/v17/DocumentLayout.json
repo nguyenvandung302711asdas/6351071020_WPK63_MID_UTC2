@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:defaultpagemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\usercontrol\\uccategory.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:usercontrol\\uccategory.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\admin\\downloads\\6351070120_wpk63_mid_utc2\\source_code_de2\\usercontrol\\ucmanagerbeverage.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:usercontrol\\ucmanagerbeverage.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\usercontrol\\ucsearch.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:usercontrol\\ucsearch.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\usercontrol\\uslistbeverages.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:usercontrol\\uslistbeverages.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\usercontrol\\ucsearch.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:usercontrol\\ucsearch.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\qldouong.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:qldouong.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\managecategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:managecategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucManagerBeverage.ascx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\ucManagerBeverage.ascx",
+              "RelativeDocumentMoniker": "UserControl\\ucManagerBeverage.ascx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\ucManagerBeverage.ascx",
+              "RelativeToolTip": "UserControl\\ucManagerBeverage.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-09-27T08:22:50.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucSearch.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\ucSearch.ascx.cs",
+              "RelativeDocumentMoniker": "UserControl\\ucSearch.ascx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\ucSearch.ascx.cs",
+              "RelativeToolTip": "UserControl\\ucSearch.ascx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:18:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucSearch.ascx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\ucSearch.ascx",
+              "RelativeDocumentMoniker": "UserControl\\ucSearch.ascx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\ucSearch.ascx",
+              "RelativeToolTip": "UserControl\\ucSearch.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-09-27T07:54:07.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Details.aspx",
+              "RelativeDocumentMoniker": "Details.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Details.aspx",
+              "RelativeToolTip": "Details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T07:36:44.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:31:42.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Beverage.cs",
+              "RelativeDocumentMoniker": "Beverage.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Beverage.cs",
+              "RelativeToolTip": "Beverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:31:38.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\style.css",
+              "RelativeDocumentMoniker": "style.css",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\style.css",
+              "RelativeToolTip": "style.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-27T07:31:20.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Category.aspx",
+              "RelativeDocumentMoniker": "Category.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Category.aspx*",
+              "RelativeToolTip": "Category.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T07:23:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Search.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Search.aspx",
+              "RelativeDocumentMoniker": "Search.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Search.aspx",
+              "RelativeToolTip": "Search.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T07:18:48.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "usListBeverages.ascx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\usListBeverages.ascx",
+              "RelativeDocumentMoniker": "UserControl\\usListBeverages.ascx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\usListBeverages.ascx",
+              "RelativeToolTip": "UserControl\\usListBeverages.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-09-27T07:16:57.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucCategory.ascx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\ucCategory.ascx",
+              "RelativeDocumentMoniker": "UserControl\\ucCategory.ascx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\UserControl\\ucCategory.ascx",
+              "RelativeToolTip": "UserControl\\ucCategory.ascx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-09-27T07:03:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageCategory.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\ManageCategory.aspx",
+              "RelativeDocumentMoniker": "ManageCategory.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\ManageCategory.aspx",
+              "RelativeToolTip": "ManageCategory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T07:01:32.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLDoUong.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\QLDoUong.edmx",
+              "RelativeDocumentMoniker": "QLDoUong.edmx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\QLDoUong.edmx [Diagram1]",
+              "RelativeToolTip": "QLDoUong.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-27T06:58:54.407Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.sitemap",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Web.sitemap",
+              "RelativeDocumentMoniker": "Web.sitemap",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\Web.sitemap",
+              "RelativeToolTip": "Web.sitemap",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
+              "WhenOpened": "2024-09-25T09:53:54.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultPageMaster.Master",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\DefaultPageMaster.Master",
+              "RelativeDocumentMoniker": "DefaultPageMaster.Master",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\DefaultPageMaster.Master",
+              "RelativeToolTip": "DefaultPageMaster.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T04:05:03.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\home.aspx",
+              "RelativeDocumentMoniker": "home.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\6351070120_WPK63_MID_UTC2\\source_code_de2\\home.aspx*",
+              "RelativeToolTip": "home.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T03:51:45.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
